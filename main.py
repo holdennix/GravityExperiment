@@ -29,3 +29,4 @@ plt.show()
 gravity = (2 * 0.5) / times[-1]**2
 
 print(times)
+print(gravity)
